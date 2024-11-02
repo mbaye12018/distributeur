@@ -1,0 +1,14 @@
+C:\Users\MBAYE DIENG\distributeur\bin\Debug\net8.0\distributeur.exe
+C:\Users\MBAYE DIENG\distributeur\bin\Debug\net8.0\distributeur.deps.json
+C:\Users\MBAYE DIENG\distributeur\bin\Debug\net8.0\distributeur.runtimeconfig.json
+C:\Users\MBAYE DIENG\distributeur\bin\Debug\net8.0\distributeur.dll
+C:\Users\MBAYE DIENG\distributeur\bin\Debug\net8.0\distributeur.pdb
+C:\Users\MBAYE DIENG\distributeur\obj\Debug\net8.0\distributeur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBAYE DIENG\distributeur\obj\Debug\net8.0\distributeur.AssemblyInfoInputs.cache
+C:\Users\MBAYE DIENG\distributeur\obj\Debug\net8.0\distributeur.AssemblyInfo.cs
+C:\Users\MBAYE DIENG\distributeur\obj\Debug\net8.0\distributeur.csproj.CoreCompileInputs.cache
+C:\Users\MBAYE DIENG\distributeur\obj\Debug\net8.0\distributeur.dll
+C:\Users\MBAYE DIENG\distributeur\obj\Debug\net8.0\refint\distributeur.dll
+C:\Users\MBAYE DIENG\distributeur\obj\Debug\net8.0\distributeur.pdb
+C:\Users\MBAYE DIENG\distributeur\obj\Debug\net8.0\distributeur.genruntimeconfig.cache
+C:\Users\MBAYE DIENG\distributeur\obj\Debug\net8.0\ref\distributeur.dll
